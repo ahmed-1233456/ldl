@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXT-X-I-FRAMES-ONLY
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXTINF:1,
+https://www.youtube.com/live/O_02mf1vpQo?si=hJjzl0mKmayPCz2m
+#EXTINF:1,
+https://www.youtube.com/live/O_02mf1vpQo?si=hJjzl0mKmayPCz2m
